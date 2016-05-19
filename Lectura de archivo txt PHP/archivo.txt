@@ -1,0 +1,10 @@
+﻿Archivo Prueba de lectura de archivo de texto en PHP
+Este codigo genera un arreglo para las lineas y dentro de el crea un arreglo para las palabras generando una especie de matriz. 
+ejemplo:
+arreglolinea[0] = linea1 (arreglopalabra[0] = palabra 1, arreglopalabra[1] = palabra 2, arreglopalabra[2] = palabra 3.......)
+arreglolinea[2] = linea2 (arreglopalabra[0] = palabra 1, arreglopalabra[1] = palabra 2, arreglopalabra[2] = palabra 3.......)
+arreglolinea[3] = linea3 (arreglopalabra[0] = palabra 1, arreglopalabra[1] = palabra 2, arreglopalabra[2] = palabra 3.......)
+
+Esto es para poder identificar por posicion cada palabra y luego se puede comparar con otro archivo o poner alguna regla para esas palabras.
+
+Espero que les sirva.
